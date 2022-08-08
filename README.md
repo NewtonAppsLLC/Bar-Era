@@ -1,6 +1,6 @@
 # Bar Era
 
-#PRIVACY POLICY
+# PRIVACY POLICY
 
 Last updated August 07, 2022 
 
